@@ -1,0 +1,6 @@
+{
+  "name": "GalleryX Digital Atelier",
+  "description": "A high-end, immersive digital art and media gallery featuring a Bold Typographic design theme, stark structural layouts, and vivid minimal accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
